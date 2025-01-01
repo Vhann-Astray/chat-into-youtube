@@ -1,4 +1,4 @@
-# YouTube Live Chat Bot
+# Chat into Youtube with YouTube Data API v3
 
 This Python script allows you to send messages to a YouTube live chat during a stream using the YouTube Data API v3. It authenticates using OAuth2, stores the credentials in a local pickle file for reuse, and sends messages to the live chat of a YouTube live stream.
 
